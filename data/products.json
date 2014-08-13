@@ -1,0 +1,84 @@
+[
+	{
+		"name": "Dodecahedron",
+		"price": 2,
+		"description": "This gem is not easy to recognize, but very valuable!",
+		"canPurchase": true,
+		"soldOut": false,
+		"images": [
+			{
+				"full": "do-01-full.jpg",
+				"thumb": "do-01-thumb.jpg"
+			},
+			{
+				"full": "do-02-full.jpg",
+				"thumb": "do-02-thumb.jpg"
+			}
+		],
+		"reviews": [
+			{
+				"stars": 5,
+				"body": "I love ddhs!",
+				"author": "joe@joesplace.com"
+			},
+			{
+				"stars": 1,
+				"body": "These things are terrible!",
+				"author": "steve@stevesplace.com"
+			}
+		]
+	},
+	{
+		"name": "Diamond",
+		"price": 122.5,
+		"description": "This gem is very valuable!",
+		"canPurchase": true,
+		"soldOut": false,
+		"images": [
+			{
+				"full": "di-01-full.jpg",
+				"thumb": "di-01-thumb.jpg"
+			},
+			{
+				"full": "di-02-full.jpg",
+				"thumb": "di-02-thumb.jpg"
+			}
+		],
+		"reviews": [
+			{
+				"stars": 4,
+				"body": "All girls love diamonds!",
+				"author": "tiffany@tiffanys.com"
+			},
+			{
+				"stars": 1,
+				"body": "I can't afford diamonds!",
+				"author": "steve@stevesplace.com"
+			}
+		]
+	},
+	{
+		"name": "Ruby",
+		"price": 49.95,
+		"description": "Rich in color is this gem...",
+		"canPurchase": true,
+		"soldOut": false,
+		"images": [
+			{
+				"full": "rb-01-full.jpg",
+				"thumb": "rb-01-thumb.jpg"
+			},
+			{
+				"full": "rb-02-full.jpg",
+				"thumb": "rb-02-thumb.jpg"
+			}
+		],
+		"reviews": [
+			{
+				"stars": 3,
+				"body": "Really nice gems",
+				"author": "ruby@rubylover.com"
+			}
+		]
+	}
+]
